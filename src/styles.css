@@ -91,9 +91,8 @@ body {
   height: 55px;
 }
 .btn {
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+  height: 55px;
+  width: 45%;
 }
 .col-4 {
   padding: 40px;
