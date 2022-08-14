@@ -97,3 +97,12 @@ body {
 .col-4 {
   padding: 40px;
 }
+.contact-btn {
+  text-decoration: none;
+}
+h4 {
+  text-align: center;
+  font-size: 18px;
+  opacity: 0.7;
+  padding: 14px;
+}
