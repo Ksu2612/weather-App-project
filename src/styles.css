@@ -106,3 +106,8 @@ h4 {
   opacity: 0.7;
   padding: 14px;
 }
+.btn-primary {
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
