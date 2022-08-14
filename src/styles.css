@@ -41,6 +41,7 @@ ul {
   vertical-align: middle;
   margin-block-end: auto;
   margin-block-start: auto;
+  transform: scale(0.8);
 }
 .fa-cloud-rain {
   color: blue;
@@ -82,6 +83,9 @@ input {
   opacity: 0.5;
 }
 
+body {
+  transform: scale(0.75);
+}
 .form-control {
   width: 100%;
   height: 55px;
